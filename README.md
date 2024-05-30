@@ -1,3 +1,4 @@
+Capturile de ecran se afla ]n fisierul cu extensia docx.(doar ca trebuie de descarcat raw
 Proiect "Administrarea bazelor de date"
 
 1. Overview
